@@ -11,6 +11,7 @@ This project is designed for beginners to understand Object-Oriented Programming
  Generate rental receipt
  Simple console-based interface
 
+
 ## Technologies Used:
 C++
 Object-Oriented Programming (OOP)
